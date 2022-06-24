@@ -1,7 +1,7 @@
 <p align="center">
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/gpd38/desafioShaweeDatathONS?color=blue">
-  <img alt="GitHub" src="https://img.shields.io/github/license/gpd38/desafioShaweeDatathONS?color=green">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/gpd38/desafioShaweeDatathONS?color=red">
+  <img alt="GitHub" src="https://img.shields.io/github/license/gpd38/desafioShaweeDatathONS?color=red">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/gpd38/desafioShaweeDatathONS">
   <img alt="GitHub repo file count" src="https://img.shields.io/github/directory-file-count/gpd38/desafioShaweeDatathONS?color=orange">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/gpd38/desafioShaweeDatathONS?color=pink">
 </p>
