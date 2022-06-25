@@ -20,7 +20,7 @@
 
 ### Cronograma
 
-<img src="img/cronograma.PNG"/><br>
+<img src="img/cronograma.png"/><br>
 
 ### Desafio
 
