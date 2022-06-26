@@ -30,11 +30,15 @@ Analisar os efeitos das temperaturas nas cargas das regiões de São Paulo a fim
 
 - [Vídeo Pitch](#)
 - [Apresentação Power Point](#)
-- [Link da Solução](#)
+- [Link da Solução](https://colab.research.google.com/drive/1eTprynt3uIbifKRzSxgDBYjDKAJAt6tO#scrollTo=Md2bmqo-LWef)
 
 ### Projeto
 
-Foi utilizado o google colab para . . . . .
+Foi utilizado o google colab para realizar a manipulação, teste e criação do nosso modelo de solução para o desafio proposto.
+
+Para ver detalhes do projeto, clique aqui no link de documentação.
+
+[documentação do projeto]().
 
 ### Ferramentas
 
@@ -51,13 +55,13 @@ Foi utilizado o google colab para . . . . .
 <table>
   <tr>
     <td><img alt="Foto de Alex Lourenço" src="https://media-exp2.licdn.com/dms/image/C4D03AQF6WoN4_5ONNA/profile-displayphoto-shrink_800_800/0/1596643122836?e=1661385600&v=beta&t=4qmKUHrLqFxTJ5XDo9rqGn6QJ3K3NjyEmEfTa25B--s" /><br>Alex</td>
-    <td><img alt="Foto do Everton" src="https://th.bing.com/th/id/R.ea0d38e91f172b985c948f989e98c39f?rik=NR0pbQNo1c8XMw&riu=http%3a%2f%2fcdn.onlinewebfonts.com%2fsvg%2fimg_357118.png&ehk=cUAdriibLw7xEDkfIXfwIR3GAAijwWJWZIpc7ctVbmo%3d&risl=&pid=ImgRaw&r=0" /><br>Everton</td>
+    <td><img alt="Foto do Everton" src="https://media-exp2.licdn.com/dms/image/C4E03AQGI6ykbLYE6OA/profile-displayphoto-shrink_800_800/0/1612813378710?e=1661990400&v=beta&t=Vyfjg1fJ7yLlQpo5XXTM4xeDeT_zcmcOUv8vpkrkXQI" /><br>Everton</td>
     <td><img alt="Foto do Isaac" src="https://media-exp2.licdn.com/dms/image/C4D03AQEo-RFIxoUzXw/profile-displayphoto-shrink_800_800/0/1656239156344?e=1661990400&v=beta&t=ItIA62009mnShPlNwDJD7GX7ia3ndXYZJQLtLCUmKmM" /><br>Isaac</td>
     <td><img alt="Foto do Gustavo Dias" src="https://media-exp2.licdn.com/dms/image/C4E03AQHTRpKKU1Nptg/profile-displayphoto-shrink_800_800/0/1596412740803?e=1661385600&v=beta&t=W8Tv3NFK_oCvSIYWYoYkBPA1hBpIm4X6svFaibn69_8" /><br>Gustavo</td>
   </tr>
   <tr>
     <td><a href="https://www.linkedin.com/in/engalexlourenco/" target="_blank">Linkedin</a></td>
-    <td><a href="encurtador.com.br/jrMT3" target="_blank">Linkedin</a></td>
+    <td><a href="https://www.linkedin.com/in/everton-mendes-4b402019b/" target="_blank">Linkedin</a></td>
     <td><a href="https://www.linkedin.com/in/isaac-camargos-945833207/"  target="_blank">Linkedin</a></td>
     <td><a href="https://www.linkedin.com/in/gustavopereiradias/" target="_blank">Linkedin</a></td>
     </tr>
