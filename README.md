@@ -38,7 +38,7 @@ Foi utilizado o google colab para realizar a manipulação, teste e criação do
 
 Para ver detalhes do projeto, clique aqui no link de documentação.
 
-[documentação do projeto]().
+[documentação do projeto](https://github.com/gpd38/desafioShaweeDatathONS/tree/main/codigo).
 
 ### Ferramentas
 
