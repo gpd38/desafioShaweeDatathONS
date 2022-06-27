@@ -28,8 +28,8 @@ Analisar os efeitos das temperaturas nas cargas das regiões de São Paulo a fim
 
 ### Material
 
-- [Vídeo Pitch](#)
-- [Apresentação Power Point](https://docs.google.com/presentation/d/1NTYbS34BsymvVLzzchwNzedCoUi9hpGa8r5FQ0sJJ4A/edit#slide=id.g137b4129d21_0_81)
+- [Vídeo Pitch](https://www.youtube.com/watch?v=1JIIMox9YYQ&feature=youtu.be&ab_channel=%23DicasdoEstudante)
+- [Apresentação Power Point](https://github.com/gpd38/desafioShaweeDatathONS/blob/main/Desafio_Datathons_Time_1.pptx)
 - [Link da Solução](https://colab.research.google.com/drive/1eTprynt3uIbifKRzSxgDBYjDKAJAt6tO#scrollTo=3fAi9FOurgBW)
 
 ### Projeto
