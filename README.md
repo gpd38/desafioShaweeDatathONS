@@ -28,9 +28,9 @@ Analisar os efeitos das temperaturas nas cargas das regiões de São Paulo a fim
 
 ### Material
 
-- [Vídeo Pitch](https://youtu.be/Alaoee8Ty8U)
+- [Vídeo Pitch](#)
 - [Apresentação Power Point](https://docs.google.com/presentation/d/1NTYbS34BsymvVLzzchwNzedCoUi9hpGa8r5FQ0sJJ4A/edit#slide=id.g137b4129d21_0_81)
-- [Link da Solução](https://colab.research.google.com/drive/1eTprynt3uIbifKRzSxgDBYjDKAJAt6tO#scrollTo=Md2bmqo-LWef)
+- [Link da Solução](https://colab.research.google.com/drive/1eTprynt3uIbifKRzSxgDBYjDKAJAt6tO#scrollTo=3fAi9FOurgBW)
 
 ### Projeto
 
@@ -38,7 +38,7 @@ Foi utilizado o google colab para realizar a manipulação, teste e criação do
 
 Para ver detalhes do projeto, clique aqui no link de documentação.
 
-[documentação do projeto](https://github.com/gpd38/desafioShaweeDatathONS/tree/main/codigo).
+[Documentação do projeto](https://github.com/gpd38/desafioShaweeDatathONS/tree/main/codigo).
 
 ### Ferramentas
 
