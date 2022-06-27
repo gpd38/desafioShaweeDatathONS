@@ -28,8 +28,8 @@ Analisar os efeitos das temperaturas nas cargas das regiões de São Paulo a fim
 
 ### Material
 
-- [Vídeo Pitch](#)
-- [Apresentação Power Point](#)
+- [Vídeo Pitch](https://youtu.be/Alaoee8Ty8U)
+- [Apresentação Power Point](https://docs.google.com/presentation/d/1NTYbS34BsymvVLzzchwNzedCoUi9hpGa8r5FQ0sJJ4A/edit#slide=id.g137b4129d21_0_81)
 - [Link da Solução](https://colab.research.google.com/drive/1eTprynt3uIbifKRzSxgDBYjDKAJAt6tO#scrollTo=Md2bmqo-LWef)
 
 ### Projeto
@@ -56,14 +56,14 @@ Para ver detalhes do projeto, clique aqui no link de documentação.
   <tr>
     <td><img alt="Foto de Alex Lourenço" src="https://media-exp2.licdn.com/dms/image/C4D03AQF6WoN4_5ONNA/profile-displayphoto-shrink_800_800/0/1596643122836?e=1661385600&v=beta&t=4qmKUHrLqFxTJ5XDo9rqGn6QJ3K3NjyEmEfTa25B--s" /><br>Alex</td>
     <td><img alt="Foto do Everton" src="https://media-exp2.licdn.com/dms/image/C4E03AQGI6ykbLYE6OA/profile-displayphoto-shrink_800_800/0/1612813378710?e=1661990400&v=beta&t=Vyfjg1fJ7yLlQpo5XXTM4xeDeT_zcmcOUv8vpkrkXQI" /><br>Everton</td>
-    <td><img alt="Foto do Isaac" src="https://media-exp2.licdn.com/dms/image/C4D03AQEo-RFIxoUzXw/profile-displayphoto-shrink_800_800/0/1656239156344?e=1661990400&v=beta&t=ItIA62009mnShPlNwDJD7GX7ia3ndXYZJQLtLCUmKmM" /><br>Isaac</td>
     <td><img alt="Foto do Gustavo Dias" src="https://media-exp2.licdn.com/dms/image/C4E03AQHTRpKKU1Nptg/profile-displayphoto-shrink_800_800/0/1596412740803?e=1661385600&v=beta&t=W8Tv3NFK_oCvSIYWYoYkBPA1hBpIm4X6svFaibn69_8" /><br>Gustavo</td>
+    <td><img alt="Foto do Isaac" src="https://media-exp2.licdn.com/dms/image/C4D03AQEo-RFIxoUzXw/profile-displayphoto-shrink_800_800/0/1656239156344?e=1661990400&v=beta&t=ItIA62009mnShPlNwDJD7GX7ia3ndXYZJQLtLCUmKmM" /><br>Isaac</td>
   </tr>
   <tr>
     <td><a href="https://www.linkedin.com/in/engalexlourenco/" target="_blank">Linkedin</a></td>
     <td><a href="https://www.linkedin.com/in/everton-mendes-4b402019b/" target="_blank">Linkedin</a></td>
-    <td><a href="https://www.linkedin.com/in/isaac-camargos-945833207/"  target="_blank">Linkedin</a></td>
     <td><a href="https://www.linkedin.com/in/gustavopereiradias/" target="_blank">Linkedin</a></td>
+    <td><a href="https://www.linkedin.com/in/isaac-camargos-945833207/"  target="_blank">Linkedin</a></td>
     </tr>
   </table>
 
