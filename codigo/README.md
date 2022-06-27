@@ -1,5 +1,12 @@
 # Hackathon de Dados - ONS
 
+<p align="center">
+  <a href="#Estudos e Análises">Estudos e Análises</a> •
+  <a href="#EDA">EDA</a> •
+  <a href="#Modelo">Modelo</a>
+</p>
+
+
 ### Estudos e Análises
 
 Foi utilizado os dados do portal do ONS para a realização deste projeto que tem como objetivo realizar uma correlação entre carga e temperatura.
@@ -27,9 +34,12 @@ Com base na pré análise e manipulação dos dados escolhemos utilizar o modelo
 
 <img src="https://github.com/gpd38/desafioShaweeDatathONS/blob/main/codigo/print/01-modelo.png"/><br>
 <img src="https://github.com/gpd38/desafioShaweeDatathONS/blob/main/codigo/print/02-modelo.png"/><br>
+<img src="https://github.com/gpd38/desafioShaweeDatathONS/blob/main/codigo/print/03-modelo.png"/><br>
 
+Escolhendo K
+
+<img src="https://github.com/gpd38/desafioShaweeDatathONS/blob/main/codigo/print/04-modelo.png"/><br>
 
 ###### Modelo de Previsão de Carga
 
-<img src="https://github.com/gpd38/desafioShaweeDatathONS/blob/main/codigo/print/03-modelo.png"/><br>
-<img src="https://github.com/gpd38/desafioShaweeDatathONS/blob/main/codigo/print/04-modelo.png"/><br>
+
